@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<title>Jamminhtml5</title>
+<body>
+<style>
+.Logo {
+margin:-8px;
+text-align:center;
+font-family: Playbill, Times, serif;
+font-size:70px;
+text-shadow:3px 3px 3px black;
+background-color:blue;
+color:red
+}
+
+#links {
+position:relative;
+float:right;
+margin-top:-10px;
+margin-right:-8px;
+width:250px;
+height:375px
+}
+
+.tag {
+margin-right:-10px;
+border: 1px solid black;
+border-left:0px;
+border-right:0px;
+border-top:1px;
+border-bottom-left-radius:20px;
+padding:12px;
+text-align:center;
+font-family:sans-serif;
+font-size:16px;
+font-weight:bold;
+cursor:pointer
+}
+
+img{ cursor:pointer; border:1px solid black; width:300px }
+</style>
+
+<div class='Logo'>JamminHTML5</div>
+<br>
+<div id='links'>
+  <div style='width:240px'>
+    <div style='background-color:yellow; border-left:1px solid black' onclick="alert('GitHub?')">
+      <div class='tag' style='background-color:red'>Download JamminHTML5</div>
+    </div>
+    <div style='background-color:lime; border-left:1px solid black' onclick="alert('Freebies!')">
+      <div class='tag' style='background-color:yellow'>More Free Downloads</div>
+    </div>
+    <div style='background-color:orange; border-left:1px solid black' onclick="alert('Manual')">
+      <div class='tag' style='background-color:lime'>Manual</div>
+    </div>
+    <div style='background-color:violet; border-left:1px solid black' onclick="alert('FAQ')">
+      <div class='tag' style='background-color:orange'>FAQ</div>
+    </div>
+    <div style='background-color:cornflowerblue; border-left:1px solid black' onclick="alert('Credits')">
+      <div class='tag' style='background-color:violet'>Credits</div>
+    </div>
+    <div style='background-color:white; border-left:1px solid black; border-bottom-left-radius:20px' onclick="alert('Contacts')">
+      <div class='tag' style='background-color:cornflowerblue'>Contact</div>
+    </div>
+    <div style='padding:18px'>
+      System requirements:
+      <ul>
+        <li>Windows 7</li>
+        <li>Google Chrome Browser</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<table width='720px'>
+  <tr>
+    <td>
+      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Photo-Viewer/master/Photo Viewer' target='_blank'>
+        <img src='https://lh3.googleusercontent.com/-A8n3JNPnONM/VP9fku1h9mI/AAAAAAAAALs/fFEM_gXwsTM/s720/Photo%2520Viewer%2520-%2520Grad.png' />
+      </a>
+    </td>
+    <td align='left' valign='top'>
+      <div style='margin-left:10px'>
+        Photo Viewer lets you select single or multiple image files. Multiple file selection creates a selectable playlist. View<br>JPG, BMP, PNG, GIF, and SVG files.</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Video-Viewer/master/Video%20Viewer' target='_blank'>
+        <img src='https://lh6.googleusercontent.com/-g5Z67RgWwAk/VP9fsTWVewI/AAAAAAAAALw/j1bv4aLzfRA/s720/Video%2520Viewer%2520-%2520Grad.png' />
+      </a>
+    </td>
+    <td align='left' valign='top'>
+      <div style='margin-left:10px'>
+        Video Viewer lets you select single or multiple video files. Multiple file selection creates a selectable playlist. View MP4, WEBM, and OGV files.</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Snapshot/master/Snapshot' target='_blank'>
+        <img src='https://lh5.googleusercontent.com/-uuEVaO_0GDQ/VP9fzkCfE0I/AAAAAAAAAL0/u4DfMEPe9WQ/s720/Snapshot%2520Logo.png' />
+      </a>
+    </td>
+    <td align='left' valign='top'>
+      <div style='margin-left:10px'>
+        Snapshot captures a video frame with the click of a camera icon. The frame gets stored in a row of thumbnail images. Click a thumbnail to view it. Rightclick to save it.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Skins/master/Skins' target='_blank'>
+        <img src="https://lh6.googleusercontent.com/-nhb8XbOC6vc/VP9f-E9qGVI/AAAAAAAAAL4/ovM5vI82Pzo/s720/Logo%2520-%2520Skins.png" />
+      </a>
+    </td>
+    <td align='left' valign='top'>
+      <div style='margin-left:10px'>
+        Skins should get your imagination for decorating going. Check the sample background designs for your video player. Then, add your own design.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Zoom/master/Zoom' target='_blank'>
+        <img src="https://lh3.googleusercontent.com/-bFnZXZvNGjI/VP9gGkNxyQI/AAAAAAAAAL8/b6KRTkqRsHw/s720/Zoom%2520Logo.png" />
+      </a>
+    </td>
+    <td align='left' valign='top'>
+      <div style='margin-left:10px'>
+        Zoom does exactly what it's name says. Zoom & drag your videos around on the screen to get a closer look at an area of your video while it plays.
+      </div>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
