@@ -75,7 +75,7 @@ img{ cursor:pointer; border:1px solid black; width:300px }
 <table width='720px'>
   <tr>
     <td>
-      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Photo-Viewer/master/Photo Viewer' target='_blank'>
+      <a href='http://htmlpreview.github.io/?https://rawgit.com/JamminHTML5/Photo-Viewer/master/Photo Viewer' target='_blank'>
         <img src='https://lh3.googleusercontent.com/-A8n3JNPnONM/VP9fku1h9mI/AAAAAAAAALs/fFEM_gXwsTM/s720/Photo%2520Viewer%2520-%2520Grad.png' />
       </a>
     </td>
@@ -87,7 +87,7 @@ img{ cursor:pointer; border:1px solid black; width:300px }
   </tr>
   <tr>
     <td>
-      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Video-Viewer/master/Video%20Viewer' target='_blank'>
+      <a href='http://htmlpreview.github.io/?https://rawgit.com/JamminHTML5/Video-Viewer/master/Video%20Viewer' target='_blank'>
         <img src='https://lh6.googleusercontent.com/-g5Z67RgWwAk/VP9fsTWVewI/AAAAAAAAALw/j1bv4aLzfRA/s720/Video%2520Viewer%2520-%2520Grad.png' />
       </a>
     </td>
@@ -99,7 +99,7 @@ img{ cursor:pointer; border:1px solid black; width:300px }
   </tr>
   <tr>
     <td>
-      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Snapshot/master/Snapshot' target='_blank'>
+      <a href='http://htmlpreview.github.io/?https://rawgit.com/JamminHTML5/Snapshot/master/Snapshot' target='_blank'>
         <img src='https://lh5.googleusercontent.com/-uuEVaO_0GDQ/VP9fzkCfE0I/AAAAAAAAAL0/u4DfMEPe9WQ/s720/Snapshot%2520Logo.png' />
       </a>
     </td>
@@ -111,7 +111,7 @@ img{ cursor:pointer; border:1px solid black; width:300px }
   </tr>
   <tr>
     <td>
-      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Skins/master/Skins' target='_blank'>
+      <a href='http://htmlpreview.github.io/?https://rawgit.com/JamminHTML5/Skins/master/Skins' target='_blank'>
         <img src="https://lh6.googleusercontent.com/-nhb8XbOC6vc/VP9f-E9qGVI/AAAAAAAAAL4/ovM5vI82Pzo/s720/Logo%2520-%2520Skins.png" />
       </a>
     </td>
@@ -123,7 +123,7 @@ img{ cursor:pointer; border:1px solid black; width:300px }
   </tr>
   <tr>
     <td>
-      <a href='http://htmlpreview.github.io/?https://raw.githubusercontent.com/JamminHTML5/Zoom/master/Zoom' target='_blank'>
+      <a href='http://htmlpreview.github.io/?https://rawgit.com/JamminHTML5/Zoom/master/Zoom' target='_blank'>
         <img src="https://lh3.googleusercontent.com/-bFnZXZvNGjI/VP9gGkNxyQI/AAAAAAAAAL8/b6KRTkqRsHw/s720/Zoom%2520Logo.png" />
       </a>
     </td>
